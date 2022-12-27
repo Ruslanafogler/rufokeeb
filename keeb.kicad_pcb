@@ -294,7 +294,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 01a45364-bb92-4afe-b39b-2d0556cada27)
-    (at 518.86125 98.49375)
+    (at 298.04375 355.075)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -344,7 +344,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 04179ac1-2852-48b4-9b94-ae94e95040a8)
-    (at 142.08125 -57.325)
+    (at 91.475 386.55625)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -394,7 +394,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 04a50092-1381-48d5-8973-119223f37028)
-    (at 513.11125 101.84375)
+    (at 292.29375 358.425)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -612,7 +612,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 11912170-9737-4469-9cc1-b4f3acaff476)
-    (at 507.36125 98.49375)
+    (at 286.54375 355.075)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -942,7 +942,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 1d21938d-a4cd-4c4c-90d6-5e0b8f5b7a83)
-    (at 513.11125 105.19375)
+    (at 292.29375 361.775)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -992,7 +992,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 1fd50307-e1f1-44cc-9098-39bafcb0ce20)
-    (at 513.11125 98.49375)
+    (at 292.29375 355.075)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -1298,7 +1298,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 23fabfc8-de10-49c7-8d3a-2f1ff72783cc)
-    (at 522.2875 107.15625)
+    (at 301.47 363.7375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -1404,7 +1404,7 @@
 
   (footprint "acheron_MXH:MX100H" (layer "F.Cu")
     (tedit 6022B97A) (tstamp 25b8453d-5067-42e8-90fd-db254d0e9b77)
-    (at 279.4 328.6125)
+    (at 297.65625 324.64375)
     (property "Sheetfile" "matrix2_sch.kicad_sch")
     (property "Sheetname" "matrix2")
     (path "/39dabec8-ee69-4816-aadc-d8efa99bb3bd/125fd8a0-5470-43ee-83a0-8d224978797e")
@@ -2702,7 +2702,7 @@
 
   (footprint "acheron_MXH:MX100H" (layer "F.Cu")
     (tedit 6022B97A) (tstamp 7640dcc1-fda6-4a50-9bea-7438a609850c)
-    (at 260.35 309.5625)
+    (at 278.60625 305.59375)
     (property "Sheetfile" "matrix2_sch.kicad_sch")
     (property "Sheetname" "matrix2")
     (path "/39dabec8-ee69-4816-aadc-d8efa99bb3bd/f4638d6b-3311-4547-b0b2-c106079ee2a8")
@@ -3038,7 +3038,7 @@
 
   (footprint "acheron_MXH:MX100H" (layer "F.Cu")
     (tedit 6022B97A) (tstamp 918e6bcf-3348-4c94-a9c4-dcbaa5329ca4)
-    (at 241.3 328.6125)
+    (at 259.55625 324.64375)
     (property "Sheetfile" "matrix2_sch.kicad_sch")
     (property "Sheetname" "matrix2")
     (path "/39dabec8-ee69-4816-aadc-d8efa99bb3bd/29d41709-d6ec-4d49-b7bf-7e9bcb9d8583")
@@ -3318,7 +3318,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp a076159a-fc2f-45ae-8fc5-9e448e081f07)
-    (at 507.36125 105.19375)
+    (at 286.54375 361.775)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -4017,7 +4017,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp b852288e-7524-460a-bbec-6ba94b32d0a4)
-    (at 507.36125 108.54375)
+    (at 286.54375 365.125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -4459,7 +4459,7 @@
 
   (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles" (layer "F.Cu")
     (tedit 5A74C8DD) (tstamp cfec1867-d7c3-4aaf-bcbd-8358639fce67)
-    (at 273.7375 222.925)
+    (at 293.58125 222.925)
     (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
     (tags "rotary encoder")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -4525,7 +4525,7 @@
 
   (footprint "acheron_MXH:MX100H" (layer "F.Cu")
     (tedit 6022B97A) (tstamp d03bea37-a8da-487a-bfb5-608568b861ac)
-    (at 260.35 328.6125)
+    (at 278.60625 324.64375)
     (property "Sheetfile" "matrix2_sch.kicad_sch")
     (property "Sheetname" "matrix2")
     (path "/39dabec8-ee69-4816-aadc-d8efa99bb3bd/b6767f01-9095-4c85-9105-cb61cc1653ff")
@@ -4749,7 +4749,7 @@
 
   (footprint "acheron_MXH:MX100H" (layer "F.Cu")
     (tedit 6022B97A) (tstamp d57ed41f-97a1-41f7-84f6-5344641900da)
-    (at 280.9875 305.59375)
+    (at 300.0375 267.49375)
     (property "Sheetfile" "matrix2_sch.kicad_sch")
     (property "Sheetname" "matrix2")
     (path "/39dabec8-ee69-4816-aadc-d8efa99bb3bd/4070cd31-c001-45ba-b15e-ed450c10541b")
@@ -4973,7 +4973,7 @@
 
   (footprint "acheron_MXH:MX100H" (layer "F.Cu")
     (tedit 6022B97A) (tstamp de3b20a0-5e07-45e6-8337-3f70a7030dc3)
-    (at 280.9875 267.49375)
+    (at 300.0375 248.44375)
     (property "Sheetfile" "matrix2_sch.kicad_sch")
     (property "Sheetname" "matrix2")
     (path "/39dabec8-ee69-4816-aadc-d8efa99bb3bd/e2d09d69-937a-443f-a034-b7787c865758")
@@ -5141,7 +5141,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp e30d7a28-3507-472f-a05d-9ee423904250)
-    (at 142.08125 -53.975)
+    (at 91.475 389.90625)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -5303,7 +5303,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp f3b75bbb-14c6-4ff3-8773-c1f036249b83)
-    (at 507.36125 101.84375)
+    (at 286.54375 358.425)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -5409,7 +5409,7 @@
 
   (footprint "acheron_MXH:MX100H" (layer "F.Cu")
     (tedit 6022B97A) (tstamp f806731d-75dc-4769-ac40-f67dbd1191cd)
-    (at 280.9875 286.54375)
+    (at 280.9875 267.49375)
     (property "Sheetfile" "matrix2_sch.kicad_sch")
     (property "Sheetname" "matrix2")
     (path "/39dabec8-ee69-4816-aadc-d8efa99bb3bd/aa9d505d-3f0f-4f33-b878-a29ff80bbba1")
@@ -5633,7 +5633,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 023b14af-4d2f-4069-8c1d-ae2575241831)
-    (at 325.885 -57.435 180)
+    (at 275.27875 386.44625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -5683,7 +5683,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 03eb96ac-40be-4364-ba0b-a0cb4e5bad8b)
-    (at 192.5025 -33.3075 180)
+    (at 141.89625 410.57375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -5725,7 +5725,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 045b2aa1-043a-40ff-8c40-5af0f1d5fa87)
-    (at 158.5725 -58.5575 180)
+    (at 107.96625 385.32375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -5767,7 +5767,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 05f0ebaf-6f80-4ae3-ab35-837a6059105c)
-    (at 237.3125 -82.2575 180)
+    (at 186.70625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -5817,7 +5817,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 071d73a4-1eab-40a1-836a-242d16d4c06c)
-    (at 239.8875 -42.2875 180)
+    (at 189.28125 401.59375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -5870,7 +5870,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 072e17a8-1d90-49ca-a30a-29e58bb28388)
-    (at 204.7875 -42.2875 180)
+    (at 154.18125 401.59375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -5923,7 +5923,7 @@
 
   (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering" (layer "B.Cu")
     (tedit 5A0FD1B2) (tstamp 081ef01d-e8d5-4141-be3a-c82b6f56b5f2)
-    (at 277.265 -66.335 180)
+    (at 226.65875 377.54625 180)
     (descr "SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, hand-soldering, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal hand-soldering")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -5970,7 +5970,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 098e28ac-d3bc-4686-a38c-e4649d5b69b0)
-    (at 162.5625 -82.2575 180)
+    (at 111.95625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -6020,7 +6020,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 09f66a2f-777d-4ef5-9e33-08f7aca05ace)
-    (at 184.8325 -50.3975 180)
+    (at 134.22625 393.48375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6062,7 +6062,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 0ae6e3ee-fcef-4a84-af9c-3816ea743069)
-    (at 246.9075 -47.3375 180)
+    (at 196.30125 396.54375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6115,7 +6115,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 0ba65e90-ac5f-4201-898d-ab96c2af8fb7)
-    (at 190.7475 -57.4375 180)
+    (at 140.14125 386.44375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6168,7 +6168,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 0cda5669-5d5c-4d0e-b382-8e38324aee09)
-    (at 284.135 -48.755 180)
+    (at 233.52875 395.12625 180)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -6210,7 +6210,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 0d70679d-d970-4185-929b-ff86e6592d14)
-    (at 231.5625 -82.2575 180)
+    (at 180.95625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -6260,7 +6260,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 0d752798-393b-4da9-89c3-84eaec88d135)
-    (at 189.2525 -36.3175 180)
+    (at 138.64625 407.56375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6302,7 +6302,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 0efea64d-817e-4058-ba92-727028b04ef3)
-    (at 190.7475 -52.3875 180)
+    (at 140.14125 391.49375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6355,7 +6355,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 0f1fb715-4c49-434c-8c48-d3d204e858bb)
-    (at 202.1225 -33.2075 180)
+    (at 151.51625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6397,7 +6397,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 11d34d41-4b67-40db-b4b0-5e4b4c787a80)
-    (at 154.1525 -73.6075 180)
+    (at 103.54625 370.27375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6439,7 +6439,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 13c5484c-ac1f-48ed-ace0-c7a53d8ed47f)
-    (at 144.5325 -73.6075 180)
+    (at 93.92625 370.27375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6481,7 +6481,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 1430386d-2deb-436e-98ec-a2ea2dde186b)
-    (at 175.2125 -50.4975 180)
+    (at 124.60625 393.38375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6523,7 +6523,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 14c4af06-33af-48e1-88ea-616a786c1e7f)
-    (at 253.9275 -57.4375 180)
+    (at 203.32125 386.44375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6576,7 +6576,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 1531c02e-f6a3-4608-9819-80d3bfab76d6)
-    (at 168.1925 -56.5175 180)
+    (at 117.58625 387.36375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6618,7 +6618,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 154355c3-985d-49e4-8275-4b6c81c8814b)
-    (at 198.8725 -43.3075 180)
+    (at 148.26625 400.57375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6660,7 +6660,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 15ee6b33-7045-496c-ab07-9b616d677f78)
-    (at 204.7875 -72.5875 180)
+    (at 154.18125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6713,7 +6713,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 163a2ffc-55ca-45a0-aefc-58f7ebb49d8e)
-    (at 191.8525 -48.3575 180)
+    (at 141.24625 395.52375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6755,7 +6755,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 172b6958-f8ba-47a5-b636-42586e7153a3)
-    (at 225.8475 -47.3375 180)
+    (at 175.24125 396.54375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6808,7 +6808,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 17a50853-6c03-4195-9db9-c5c7f165ebbe)
-    (at 239.8875 -47.3375 180)
+    (at 189.28125 396.54375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6861,7 +6861,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 1872e881-ad87-4805-90a8-02bce268d9e7)
-    (at 161.1725 -64.5775 180)
+    (at 110.56625 379.30375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6903,7 +6903,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 1985af8a-f33d-43e0-8b0a-2fab0ee81ed0)
-    (at 139.5625 -82.2575 180)
+    (at 88.95625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -6953,7 +6953,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 1c89d021-3b65-4a30-8278-228670a8e768)
-    (at 189.2525 -42.3375 180)
+    (at 138.64625 401.54375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -6995,7 +6995,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 21d34bed-7fb3-40d5-ba09-dea9995f3e9c)
-    (at 325.885 -67.485 180)
+    (at 275.27875 376.39625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -7045,7 +7045,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 255364a0-fc8d-4942-bdaa-cc24465ee714)
-    (at 95.8525 -59.5275 180)
+    (at 45.24625 384.35375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -7087,7 +7087,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 273b806b-558b-4873-a993-a4d01e5d6ec1)
-    (at 322.51625 -48.435 180)
+    (at 271.91 395.44625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -7137,7 +7137,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 2b12233c-1a8d-408f-81ac-8c7c6e73923a)
-    (at 211.8075 -72.5875 180)
+    (at 161.20125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -7190,7 +7190,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 2b83a01d-bae2-4f00-bd2e-94b1c2f63436)
-    (at 218.8275 -52.3875 180)
+    (at 168.22125 391.49375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -7243,7 +7243,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 2cb177c2-807f-49f7-823e-e1f725966481)
-    (at 168.3125 -82.2575 180)
+    (at 117.70625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -7293,7 +7293,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 2cd68b0d-082c-4fa2-ac69-8808b30c5cee)
-    (at 185.5625 -82.2575 180)
+    (at 134.95625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -7343,7 +7343,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 2cea958c-1ab4-4114-8720-dafc28a334a8)
-    (at 176.7075 -67.5375 180)
+    (at 126.10125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -7396,7 +7396,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 30234282-095b-4e62-8aa9-fa3679dadb90)
-    (at 172.6125 -47.4875 180)
+    (at 122.00625 396.39375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -7438,7 +7438,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 3154aa5a-6aa3-4290-8908-74a715a9b7b3)
-    (at 320.135 -67.485 180)
+    (at 269.52875 376.39625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -7488,7 +7488,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 31f6735f-a4e0-4387-adae-05d25121dcbc)
-    (at 214.3125 -82.2575 180)
+    (at 163.70625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -7538,7 +7538,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 32212e30-8d20-4fc8-87f8-d14fc1caaf4c)
-    (at 91.0425 -64.5775 180)
+    (at 40.43625 379.30375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -7580,7 +7580,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 323628f7-eb7d-4d56-ac1a-847b0b9e5bbc)
-    (at 246.9075 -72.5875 180)
+    (at 196.30125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -7633,7 +7633,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 32982ca0-d1c5-4263-b66d-287d659d39b0)
-    (at 277.795 -56.075 180)
+    (at 227.18875 387.80625 180)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -7675,7 +7675,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 32e4f522-884b-4109-a44f-cee69e22dd70)
-    (at 165.5925 -52.5375 180)
+    (at 114.98625 391.34375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -7717,7 +7717,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 360909ab-9426-49db-91d7-086b693442fe)
-    (at 175.2125 -53.5075 180)
+    (at 124.60625 390.37375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -7759,7 +7759,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 368208b7-05bf-4529-9fc5-4c3190dbbbaa)
-    (at 225.8475 -37.2375 180)
+    (at 175.24125 406.64375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -7812,7 +7812,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 36aa87c1-5a48-494d-8b3c-26f387945028)
-    (at 170.7925 -65.5475 180)
+    (at 120.18625 378.33375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -7854,7 +7854,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 372fae6d-8dd1-460e-9689-3f86ea5f0085)
-    (at 183.7275 -62.4875 180)
+    (at 133.12125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -7907,7 +7907,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 37cc443f-eb3e-454c-b5a8-be642da69a5c)
-    (at 239.8875 -72.5875 180)
+    (at 189.28125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -7960,7 +7960,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 37f5a7f4-f4cf-4d9a-8b74-8affe782946c)
-    (at 108.7875 -72.5875 180)
+    (at 58.18125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -8013,7 +8013,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 3a1c3a69-a8c6-42ee-9ca2-9e4960d50213)
-    (at 151.5525 -70.5975 180)
+    (at 100.94625 373.28375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8055,7 +8055,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 3b540dc6-9691-4273-bf6f-bb3f58e64cf9)
-    (at 197.7675 -52.3875 180)
+    (at 147.16125 391.49375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8108,7 +8108,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 3b84b97d-76b2-4b6a-8de5-0b9766d1fa89)
-    (at 191.8525 -45.3475 180)
+    (at 141.24625 398.53375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8150,7 +8150,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 3bc5ea2f-b81d-4cf4-b694-5d563a1d0056)
-    (at 211.7425 -33.2075 180)
+    (at 161.13625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8192,7 +8192,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 3c0d4cca-3ff5-4e77-a258-08c4a3edba43)
-    (at 253.9275 -42.2875 180)
+    (at 203.32125 401.59375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8245,7 +8245,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 3de047e8-5a3a-49a3-8a47-189cee1ce350)
-    (at 82.2675 -37.75 180)
+    (at 31.66125 406.13125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -8295,7 +8295,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 3f72339e-0df2-4256-98ed-9578c23e6148)
-    (at 184.4425 -41.3675 180)
+    (at 133.83625 402.51375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8337,7 +8337,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 41ba7d21-694a-4c66-a780-21f439dddbf9)
-    (at 184.4425 -38.3575 180)
+    (at 133.83625 405.52375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8379,7 +8379,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 42ace63f-d918-4bbc-a1fd-116473ef5669)
-    (at 163.3825 -55.5475 180)
+    (at 112.77625 388.33375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8421,7 +8421,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 42e23bf8-4186-40d6-9c59-256fa7892e2c)
-    (at 183.7275 -67.5375 180)
+    (at 133.12125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8474,7 +8474,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 4386f80c-97e3-421e-9ade-61acf947f4c7)
-    (at 161.1725 -67.5875 180)
+    (at 110.56625 376.29375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8516,7 +8516,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 43e82294-6dc0-48fc-8bc2-702cfac10b93)
-    (at 326.0375 -21.78125 180)
+    (at 275.43125 422.1 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -8566,7 +8566,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 44ea50e3-c3e1-40ac-b892-e1f1ebcdea4b)
-    (at 204.7875 -47.3375 180)
+    (at 154.18125 396.54375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8619,7 +8619,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 46aab01b-1e67-49c7-84af-d29b0f66f527)
-    (at 293.725 -53.205 180)
+    (at 243.11875 390.67625 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -8661,7 +8661,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 47207249-204e-41e8-a2b0-6089f3945891)
-    (at 218.8275 -47.3375 180)
+    (at 168.22125 396.54375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8714,7 +8714,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 48cca6dd-6c42-466e-83a1-0f58012773e4)
-    (at 151.5525 -64.5775 180)
+    (at 100.94625 379.30375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8756,7 +8756,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 49d4a7be-022a-4a57-867f-20b72080a2a6)
-    (at 208.5625 -82.2575 180)
+    (at 157.95625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -8806,7 +8806,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 4a6ae64e-2f1c-4df8-b091-d49bdcfaec56)
-    (at 91.0425 -67.5875 180)
+    (at 40.43625 376.29375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -8848,7 +8848,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 4ab33807-fc6c-4bc2-9243-77ca593eb1a5)
-    (at 211.8075 -57.4375 180)
+    (at 161.20125 386.44375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8901,7 +8901,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 4ae515d8-e8cd-4e5d-96b9-19fdc73e2cc4)
-    (at 204.7875 -37.2375 180)
+    (at 154.18125 406.64375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -8954,7 +8954,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 4b5a5520-ab82-4423-b15f-a04d2c5609f1)
-    (at 70.7675 -47.8 180)
+    (at 20.16125 396.08125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -9004,7 +9004,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 4bd40e82-e3b3-47f8-85a0-4c12638730b8)
-    (at 82.2675 -44.45 180)
+    (at 31.66125 399.43125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -9054,7 +9054,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 4bfc8740-4377-4a34-9616-6fe05931e147)
-    (at 76.5175 -34.4 180)
+    (at 25.91125 409.48125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -9104,7 +9104,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 4c05075b-87dc-4c3f-b82d-5a8efb9fe1b8)
-    (at 44.96125 -29.4625 180)
+    (at -5.645 414.41875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -9154,7 +9154,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 4d91e408-9e50-46f9-9fff-8fb27be66f66)
-    (at 179.6325 -38.3575 180)
+    (at 129.02625 405.52375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9196,7 +9196,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 4d9bd090-2d8a-4e5c-94c3-1c999540d5d7)
-    (at 39.21125 -32.8125 180)
+    (at -11.395 411.06875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -9246,7 +9246,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 4ebbd13c-6dda-451c-8ecd-d30f75c13465)
-    (at 225.8475 -42.2875 180)
+    (at 175.24125 401.59375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9299,7 +9299,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 4edc8950-1e89-4cab-9aa0-83444be08e46)
-    (at 170.4025 -50.4975 180)
+    (at 119.79625 393.38375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9341,7 +9341,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 5264a826-07fb-4fea-a4fb-6fb289c34583)
-    (at 331.7875 -21.78125 180)
+    (at 281.18125 422.1 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -9391,7 +9391,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 527b7b12-cf6b-4147-819a-b907e29b6f73)
-    (at 211.8075 -62.4875 180)
+    (at 161.20125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9444,7 +9444,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 52848736-902a-4933-9db0-eae2c40eb84e)
-    (at 253.9275 -52.3875 180)
+    (at 203.32125 391.49375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9497,7 +9497,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 52cad0d1-2ec3-4fee-b718-e7386d017ef4)
-    (at 101.7675 -72.5875 180)
+    (at 51.16125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -9550,7 +9550,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 53d35b4b-b6b3-40ca-8b5c-3ac38a6e4f1a)
-    (at 173.0025 -62.5375 180)
+    (at 122.39625 381.34375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9592,7 +9592,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 556fb5ae-3263-4510-800f-5a97cec3ea9a)
-    (at 253.9275 -67.5375 180)
+    (at 203.32125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9645,7 +9645,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 55f83ab2-bf55-44db-a002-cc6deaba28f1)
-    (at 232.8675 -67.5375 180)
+    (at 182.26125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9698,7 +9698,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 5648b67a-d704-4232-b487-5ff5f58129a2)
-    (at 179.6325 -44.3775 180)
+    (at 129.02625 399.50375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9740,7 +9740,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 571eb4a2-1d55-45ce-ba84-25e97c533069)
-    (at 170.4025 -53.5075 180)
+    (at 119.79625 390.37375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9782,7 +9782,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 58d8af92-553f-4c62-95a6-5a17db6c7117)
-    (at 225.8475 -57.4375 180)
+    (at 175.24125 386.44375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9835,7 +9835,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 5a75c84c-0d07-4df9-8aa6-a36564f687b9)
-    (at 245.4125 -33.2075 180)
+    (at 194.80625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9877,7 +9877,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 5bcab850-b2bc-4817-954e-df229c979bcd)
-    (at 232.8675 -37.2375 180)
+    (at 182.26125 406.64375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -9930,7 +9930,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 5bd68507-4f59-48a3-b47c-c9f46246c9cf)
-    (at 145.3125 -82.2575 180)
+    (at 94.70625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -9980,7 +9980,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 5c651d1e-0d4e-4d77-9342-dad65a570920)
-    (at 197.7675 -62.4875 180)
+    (at 147.16125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10033,7 +10033,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 5cadb04f-87f4-4aeb-8a18-6a9365065d0d)
-    (at 225.8475 -67.5375 180)
+    (at 175.24125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10086,7 +10086,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 5d078f5a-57a9-4474-8776-7686dc933506)
-    (at 246.9075 -57.4375 180)
+    (at 196.30125 386.44375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10139,7 +10139,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 5dcecae9-18e1-4b4c-afab-163889fc7ddf)
-    (at 187.6925 -33.3075 180)
+    (at 137.08625 410.57375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10181,7 +10181,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 5e046bea-c8ab-461b-9a1c-2aae77522c18)
-    (at 179.6325 -41.3675 180)
+    (at 129.02625 402.51375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10223,7 +10223,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 5f644ee5-8048-4341-a894-2eb1330e08d6)
-    (at 239.8875 -57.4375 180)
+    (at 189.28125 386.44375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10276,7 +10276,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 5f780839-1cc1-41b5-b22a-30a4205ed8dc)
-    (at 27.71125 -42.8625 180)
+    (at -22.895 401.01875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -10326,7 +10326,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 5f918dd6-c619-48e2-aafb-0d4ac8da654d)
-    (at 84.0225 -70.5975 180)
+    (at 33.41625 373.28375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -10368,7 +10368,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 60ca549d-e55a-4e4b-b3b8-57434eb9256b)
-    (at 76.5175 -37.75 180)
+    (at 25.91125 406.13125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -10418,7 +10418,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 61a65c99-f55b-4150-b8ae-0f93a832ff30)
-    (at 239.8875 -37.2375 180)
+    (at 189.28125 406.64375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10471,7 +10471,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 62347256-3cfd-4417-8d5a-2e25782a1fbe)
-    (at 189.2525 -39.3275 180)
+    (at 138.64625 404.55375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10513,7 +10513,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 62c2b78f-5107-47c0-8875-60637fab21ac)
-    (at 194.0625 -36.3175 180)
+    (at 143.45625 407.56375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10555,7 +10555,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 6311bb48-e17c-45a1-9f17-f42e466114a2)
-    (at 170.7925 -68.5575 180)
+    (at 120.18625 375.32375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10597,7 +10597,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 636d6d3c-2100-4713-8614-c29bab6a4070)
-    (at 331.635 -54.085 180)
+    (at 281.02875 389.79625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -10647,7 +10647,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 641da107-54f9-4016-811d-b6eb064197d2)
-    (at 277.795 -59.025 180)
+    (at 227.18875 384.85625 180)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -10689,7 +10689,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 6443fe5b-7716-4a7d-bba8-a83c685299ea)
-    (at 84.0225 -73.6075 180)
+    (at 33.41625 370.27375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -10731,7 +10731,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 65421122-fcfa-492c-817c-fc2f99ab5e9e)
-    (at 95.8525 -65.5475 180)
+    (at 45.24625 378.33375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -10773,7 +10773,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 663d531c-8252-4e04-abfd-d9f757214148)
-    (at 248.8125 -82.2575 180)
+    (at 198.20625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -10823,7 +10823,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 66f1e02c-8350-4226-9560-f807e125d704)
-    (at 232.8675 -52.3875 180)
+    (at 182.26125 391.49375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10876,7 +10876,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 676dfcd8-bacb-461c-95f0-a585e02deb5a)
-    (at 33.46125 -39.5125 180)
+    (at -17.145 404.36875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -10926,7 +10926,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 677fb88a-429f-4a47-ab9e-00246f126153)
-    (at 250.2225 -33.2075 180)
+    (at 199.61625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -10968,7 +10968,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 68cd4288-684f-4e95-847a-843f245d3d20)
-    (at 156.8125 -82.2575 180)
+    (at 106.20625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -11018,7 +11018,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 68fb312d-f637-4c2a-9838-8f058606867f)
-    (at 331.635 -57.435 180)
+    (at 281.02875 386.44625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -11068,7 +11068,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 693c843f-ff42-4585-90dc-9dabfe6aa1aa)
-    (at 278.185 -62.005 180)
+    (at 227.57875 381.87625 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -11110,7 +11110,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 69e90a0b-0597-45c9-9922-c5940f3dc745)
-    (at 198.8725 -40.2975 180)
+    (at 148.26625 403.58375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -11152,7 +11152,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 6a872932-4553-4226-b653-87047ed4d912)
-    (at 115.8075 -62.4875 180)
+    (at 65.20125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -11205,7 +11205,7 @@
 
   (footprint "Button_Switch_SMD:SW_MEC_5GSH9" (layer "B.Cu")
     (tedit 5A02FC95) (tstamp 6b436da9-512e-42e6-b955-49f9c2405132)
-    (at 302.53625 -42.46625 180)
+    (at 251.93 401.415 180)
     (descr "MEC 5G single pole normally-open tactile switch")
     (tags "switch normally-open pushbutton push-button")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -11258,7 +11258,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 6c2c28d8-e680-42ab-aec2-376c7a65183f)
-    (at 173.0025 -59.5275 180)
+    (at 122.39625 384.35375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -11300,7 +11300,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 6d179c35-f162-4a48-91ed-a3ee95a8a100)
-    (at 197.7675 -47.3375 180)
+    (at 147.16125 396.54375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -11353,7 +11353,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 6db24794-6d49-47a1-a3fd-1b23c25cf3e7)
-    (at 254.5625 -82.2575 180)
+    (at 203.95625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -11403,7 +11403,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 6de15ce1-586f-4914-ac22-efe5dd6ed046)
-    (at 211.8075 -47.3375 180)
+    (at 161.20125 396.54375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -11456,7 +11456,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 6ee74752-6294-4193-b7b1-d2d247a32b85)
-    (at 95.8525 -62.5375 180)
+    (at 45.24625 381.34375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -11498,7 +11498,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 7019aff7-c9ed-4c10-b78d-4f6e11b58c07)
-    (at 235.7925 -33.2075 180)
+    (at 185.18625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -11540,7 +11540,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 709e61cd-6943-44d0-a624-0edb5ec0e7a2)
-    (at 156.3625 -64.5775 180)
+    (at 105.75625 379.30375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -11582,7 +11582,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 714a7d81-a209-4f86-b307-0d4e33c3c848)
-    (at 246.9075 -42.2875 180)
+    (at 196.30125 401.59375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -11635,7 +11635,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 733a8c28-f5d2-4ab1-8965-b6980ac36ebd)
-    (at 288.915 -48.725 180)
+    (at 238.30875 395.15625 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -11677,7 +11677,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 74a169a8-da33-4915-9df9-8c62ee28c318)
-    (at 331.7875 -15.08125 180)
+    (at 281.18125 428.8 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -11727,7 +11727,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 7598305d-50a6-4f37-b8cc-2cd196bcc8e7)
-    (at 115.8075 -72.5875 180)
+    (at 65.20125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -11780,7 +11780,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 77b98c76-c9df-4a14-a7d3-2c25a0f51fc7)
-    (at 174.8225 -41.3675 180)
+    (at 124.21625 402.51375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -11822,7 +11822,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 780211da-d788-45ab-a0d6-6f3eb9af3201)
-    (at 156.3625 -67.5875 180)
+    (at 105.75625 376.29375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -11864,7 +11864,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 79a40657-8cce-4405-b09e-34cbcc80fe56)
-    (at 82.2675 -47.8 180)
+    (at 31.66125 396.08125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -11914,7 +11914,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 79b112e0-726b-44ba-a5ec-38154bfebe67)
-    (at 232.8675 -42.2875 180)
+    (at 182.26125 401.59375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -11967,7 +11967,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 7a498eab-1c92-4fe7-b7a2-9a142840abc2)
-    (at 342.3 -34.925 180)
+    (at 291.69375 408.95625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -12017,7 +12017,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 7a501c10-9017-42f3-8df2-da3bc1437b03)
-    (at 325.885 -64.135 180)
+    (at 275.27875 379.74625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -12067,7 +12067,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 7b6e3db6-f627-492b-a225-9b7d89dc01fd)
-    (at 197.3125 -33.3075 180)
+    (at 146.70625 410.57375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -12109,7 +12109,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 7c439a19-23c8-480a-8fa0-bf9d75ad7da4)
-    (at 246.9075 -62.4875 180)
+    (at 196.30125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -12162,7 +12162,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 7c6e80a5-f41f-4c2b-b261-eab9254cdaf6)
-    (at 282.575 -53.975 180)
+    (at 231.96875 389.90625 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -12204,7 +12204,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 7d35c6f0-e883-4439-a248-7dd8b141ed1b)
-    (at 282.575 -56.985 180)
+    (at 231.96875 386.89625 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -12246,7 +12246,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 7fff9c03-9007-4c94-be9a-3402f367309a)
-    (at 273.045 -61.665 180)
+    (at 222.43875 382.21625 180)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -12288,7 +12288,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 81704c65-e467-42ed-91a1-1a8fa20e850f)
-    (at 331.635 -67.485 180)
+    (at 281.02875 376.39625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -12338,7 +12338,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 84c7f1de-76a4-4a1c-a694-6dc71dc942b7)
-    (at 220.0625 -82.2575 180)
+    (at 169.45625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -12388,7 +12388,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 861cc3e9-34df-49c2-89e4-d2c062e52cf1)
-    (at 39.21125 -39.5125 180)
+    (at -11.395 404.36875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -12438,7 +12438,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 887431d4-39a0-4a38-8ae4-91a8a8fa1de8)
-    (at 174.0625 -82.2575 180)
+    (at 123.45625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -12488,7 +12488,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 88c89bb1-fa85-4d91-ae1a-0e7164b106d4)
-    (at 184.8325 -53.4075 180)
+    (at 134.22625 390.47375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -12530,7 +12530,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 892d967d-3353-40c1-8dfc-da56cd24d071)
-    (at 266.755 -67.685 180)
+    (at 216.14875 376.19625 180)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -12572,7 +12572,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 8979c9a9-ea02-4572-95dc-a060d367dd17)
-    (at 39.21125 -42.8625 180)
+    (at -11.395 401.01875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -12622,7 +12622,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 8983cc0c-77f1-4100-8f37-8c127b008ba7)
-    (at 149.3425 -73.6075 180)
+    (at 98.73625 370.27375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -12664,7 +12664,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 89a3cbf9-628b-4b74-a104-59a501044223)
-    (at 76.5175 -47.8 180)
+    (at 25.91125 396.08125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -12714,7 +12714,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 8a027364-dbe4-4695-8e4e-a134acb71427)
-    (at 182.8825 -35.3475 180)
+    (at 132.27625 408.53375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -12756,7 +12756,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 8a718b0e-2e38-4e80-a2d6-468054ee707c)
-    (at 239.8875 -67.5375 180)
+    (at 189.28125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -12809,7 +12809,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 8a9eef62-7bf4-4081-a938-81c9ee0a0c90)
-    (at 204.7875 -57.4375 180)
+    (at 154.18125 386.44375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -12862,7 +12862,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 8c2db039-8f7d-4f62-97ec-280d867023f5)
-    (at 177.8125 -57.4875 180)
+    (at 127.20625 386.39375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -12904,7 +12904,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 8e9f31d2-8858-4dc1-aee5-7abe5bbf85df)
-    (at 197.7675 -67.5375 180)
+    (at 147.16125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -12957,7 +12957,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 8f13f771-a05a-47c4-97d9-2b8ec841a5a4)
-    (at 163.3825 -58.5575 180)
+    (at 112.77625 385.32375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -12999,7 +12999,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 90464ae1-68be-4de3-b67c-12b33be80f16)
-    (at 204.7875 -62.4875 180)
+    (at 154.18125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13052,7 +13052,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 90e9cd59-788f-4c6f-8116-28de98ce5018)
-    (at 33.46125 -42.8625 180)
+    (at -17.145 401.01875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -13102,7 +13102,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 918a9f6d-caa6-47fc-a050-8cb09d8c1216)
-    (at 44.96125 -42.8625 180)
+    (at -5.645 401.01875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -13152,7 +13152,7 @@
 
   (footprint "random-keyboard-parts2:Reset_Pretty-Mask" (layer "B.Cu")
     (tedit 5C42C5CE) (tstamp 91b52c12-5ba5-4981-acc3-291e483e0dce)
-    (at 288.105 -54.6 180)
+    (at 237.49875 389.28125 180)
     (property "Sheetfile" "keeb.kicad_sch")
     (property "Sheetname" "")
     (path "/12e874c0-cb7a-483a-b94a-6167aca1e308")
@@ -13209,7 +13209,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 92ca3ff8-8dea-40cd-bae7-c8dbb49e0cb9)
-    (at 204.7875 -52.3875 180)
+    (at 154.18125 391.49375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13262,7 +13262,7 @@
 
   (footprint "random-keyboard-parts2:SOT143B" (layer "B.Cu")
     (tedit 5E62B3A6) (tstamp 936753ed-3a9b-4e06-8280-43a6b1b2b463)
-    (at 273.395 -58.165 180)
+    (at 222.78875 385.71625 180)
     (property "Arrow Part Number" "")
     (property "Arrow Price/Stock" "")
     (property "Description" "NEXPERIA - PRTR5V0U2X - DIODE, TVS, DUAL, SOT-143B")
@@ -13316,7 +13316,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 937eb07c-7297-4860-9c7a-9c07253f6da4)
-    (at 115.8075 -67.5375 180)
+    (at 65.20125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -13369,7 +13369,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 93a4db96-6d13-4f08-92ce-e80c368b4b3b)
-    (at 197.0625 -82.2575 180)
+    (at 146.45625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -13419,7 +13419,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 94a42ab5-e9db-4965-8886-467a8a3e2d87)
-    (at 182.2325 -47.3875 180)
+    (at 131.62625 396.49375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13461,7 +13461,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 95620bb8-fb72-4ac7-af73-47938e3bb9ec)
-    (at 218.8275 -67.5375 180)
+    (at 168.22125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13514,7 +13514,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 96d9491a-9e06-4f98-b0e9-4f3682e6ec7b)
-    (at 168.1925 -62.5375 180)
+    (at 117.58625 381.34375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13556,7 +13556,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 9762882f-a34b-4c93-9bb9-424f4dee42cb)
-    (at 168.1925 -59.5275 180)
+    (at 117.58625 384.35375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13598,7 +13598,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 9aa07dc9-690f-4e23-995c-40f3dd511927)
-    (at 218.8275 -72.5875 180)
+    (at 168.22125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13651,7 +13651,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 9ba31d64-9155-40dc-a8f3-e61139aff2ea)
-    (at 226.1725 -33.2075 180)
+    (at 175.56625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13693,7 +13693,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 9ca55022-b6f6-47c2-80db-fdd57dbf7a3a)
-    (at 191.3125 -82.2575 180)
+    (at 140.70625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -13743,7 +13743,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 9d48a2a8-ca8d-4583-bee6-ead909d58472)
-    (at 158.9625 -73.6075 180)
+    (at 108.35625 370.27375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13785,7 +13785,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 9e7c1f57-c6ed-4705-a803-f0dc3d0e15b0)
-    (at 108.7875 -62.4875 180)
+    (at 58.18125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -13838,7 +13838,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 9ea9152c-ff1b-4f37-bb6b-a3bb82925b31)
-    (at 218.8275 -57.4375 180)
+    (at 168.22125 386.44375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13891,7 +13891,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp 9f169eeb-03f2-419a-a1b8-7b608f3cbf02)
-    (at 190.7475 -72.5875 180)
+    (at 140.14125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13944,7 +13944,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp a0c4df7b-2c4c-4e50-bcf2-404ae2b9a1c0)
-    (at 177.4225 -47.3875 180)
+    (at 126.81625 396.49375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -13986,7 +13986,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp a3d0c655-17a9-4d35-8103-06caf39893b2)
-    (at 331.635 -64.135 180)
+    (at 281.02875 379.74625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -14036,7 +14036,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp a4421378-38a5-4fd9-a7f5-f9b8314c1ad1)
-    (at 211.8075 -52.3875 180)
+    (at 161.20125 391.49375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -14089,7 +14089,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp a5ae5531-9b66-4191-b4db-3c64ce750325)
-    (at 232.8675 -72.5875 180)
+    (at 182.26125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -14142,7 +14142,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp a6efc40d-8b20-411a-b3cf-d37d5da5eb71)
-    (at 82.2675 -34.4 180)
+    (at 31.66125 409.48125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -14192,7 +14192,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp a7ad62cd-8168-49ef-aab7-83ab16fb07e8)
-    (at 180.0225 -53.4075 180)
+    (at 129.41625 390.47375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -14234,7 +14234,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp a858a3e2-d391-4660-8221-e3439e86be56)
-    (at 151.0625 -82.2575 180)
+    (at 100.45625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -14284,7 +14284,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp aa89facf-de76-440e-8122-abfc5c2ae553)
-    (at 190.7475 -62.4875 180)
+    (at 140.14125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -14337,7 +14337,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp aac5307e-96ec-4dd9-81ec-71d50d502878)
-    (at 331.635 -60.785 180)
+    (at 281.02875 383.09625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -14387,7 +14387,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp abcbf20b-eadd-4f08-885e-baade9e573e1)
-    (at 342.3 -31.575 180)
+    (at 291.69375 412.30625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -14437,7 +14437,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp ac26a42f-93b9-4317-be48-4908f9d9d185)
-    (at 246.9075 -67.5375 180)
+    (at 196.30125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -14490,7 +14490,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp ac549dfa-51bf-4487-a121-a4cd2f9139ea)
-    (at 163.7725 -73.6075 180)
+    (at 113.16625 370.27375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -14532,7 +14532,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp ad26f468-d2a8-43d1-a5c0-4ab17445cffa)
-    (at 331.7875 -18.43125 180)
+    (at 281.18125 425.45 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -14582,7 +14582,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp ae4d7397-2f74-4b3b-9c6d-13e4fe163d0a)
-    (at 240.6025 -33.2075 180)
+    (at 189.99625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -14624,7 +14624,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp ae61debe-64cb-4625-b282-db67f77d4591)
-    (at 336.55 -34.925 180)
+    (at 285.94375 408.95625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -14674,7 +14674,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp aeb7a6bc-e8c6-4012-87f9-4cfdbe1824c0)
-    (at 230.9825 -33.2075 180)
+    (at 180.37625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -14716,7 +14716,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp af7ff1ab-7418-4e6c-ad43-e7344e470b81)
-    (at 211.8075 -42.2875 180)
+    (at 161.20125 401.59375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -14769,7 +14769,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp af968c59-3448-44df-9961-47cef977c671)
-    (at 271.535 -64.645 180)
+    (at 220.92875 379.23625 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -14811,7 +14811,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp b0ea2916-f52a-451b-88dd-59207045aebb)
-    (at 151.5525 -67.5875 180)
+    (at 100.94625 376.29375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -14853,7 +14853,7 @@
 
   (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm" (layer "B.Cu")
     (tedit 5A02F146) (tstamp b1a9720f-3369-45a1-aa67-5da11f3eb4b1)
-    (at 298.455 -61.935 180)
+    (at 247.84875 381.94625 180)
     (descr "44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFP 0.8")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -14987,7 +14987,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp b21442f0-a9b4-4086-8009-74c4377dae59)
-    (at 165.9825 -65.5475 180)
+    (at 115.37625 378.33375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15029,7 +15029,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp b2347eac-0368-4658-b77a-38e687a0a592)
-    (at 94.7475 -72.5875 180)
+    (at 44.14125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -15082,7 +15082,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp b2e20d31-8786-4f8f-867e-d27e2b953193)
-    (at 44.96125 -32.8125 180)
+    (at -5.645 411.06875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -15132,7 +15132,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp b43e7b63-4dd3-41ab-bc30-9d112c6e968f)
-    (at 165.9825 -68.5575 180)
+    (at 115.37625 375.32375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15174,7 +15174,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp b44cda9d-9cce-4bf1-925f-4778875ceaf6)
-    (at 293.725 -48.725 180)
+    (at 243.11875 395.15625 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -15216,7 +15216,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp b4d19caa-81cc-4196-9bb2-3a7acb70c57c)
-    (at 218.8275 -37.2375 180)
+    (at 168.22125 406.64375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15269,7 +15269,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp b75fda7e-7192-4587-a7e9-3c6edc8d5dec)
-    (at 326.0375 -18.43125 180)
+    (at 275.43125 425.45 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -15319,7 +15319,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp bafc6341-8267-4dd3-b384-a9f2ac97c7e0)
-    (at 211.8075 -67.5375 180)
+    (at 161.20125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15372,7 +15372,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp bbd7a6af-6655-4b29-a28e-9bbd832c56ca)
-    (at 232.8675 -62.4875 180)
+    (at 182.26125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15425,7 +15425,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp bc5113ff-bd5e-41ae-9ef4-f57fdadfcdf1)
-    (at 177.8125 -60.4975 180)
+    (at 127.20625 383.38375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15467,7 +15467,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp bd286276-3787-4f03-a6a7-cb3df42a2fb2)
-    (at 253.9275 -47.3375 180)
+    (at 203.32125 396.54375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15520,7 +15520,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp bd6d8508-0222-4c60-8bcd-d0a63dbcb246)
-    (at 246.9075 -52.3875 180)
+    (at 196.30125 391.49375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15573,7 +15573,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp be5357e7-353a-4d83-9f60-e81a4c35e255)
-    (at 76.5175 -41.1 180)
+    (at 25.91125 402.78125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -15623,7 +15623,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp bfa2af0e-3459-4eb8-acec-e5665c376759)
-    (at 44.96125 -46.2125 180)
+    (at -5.645 397.66875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -15673,7 +15673,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp c0bde421-26df-460d-8980-b22473bc73cc)
-    (at 225.8475 -52.3875 180)
+    (at 175.24125 391.49375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15726,7 +15726,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp c0cfda42-e82b-4ce0-9b91-ce57644b46e6)
-    (at 39.21125 -29.4625 180)
+    (at -11.395 414.41875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -15776,7 +15776,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp c1cdd0ef-9ed8-46a7-b5b3-b1611219e90f)
-    (at 39.21125 -46.2125 180)
+    (at -11.395 397.66875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -15826,7 +15826,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp c1f878f0-59d7-4711-be73-14ffb899bc69)
-    (at 204.7875 -67.5375 180)
+    (at 154.18125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15879,7 +15879,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp c26dbfae-81f3-4f1f-b99a-498f192512f8)
-    (at 190.7475 -67.5375 180)
+    (at 140.14125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15932,7 +15932,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp c2ac6b1d-71a1-4ade-9d0c-5637ff3880b3)
-    (at 194.0625 -39.3275 180)
+    (at 143.45625 404.55375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -15974,7 +15974,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp c2d09762-e39d-46f9-b30d-359b21d4d137)
-    (at 161.1725 -70.5975 180)
+    (at 110.56625 373.28375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16016,7 +16016,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp c333441f-ee8e-4ed0-90f7-9dd7f7a3958a)
-    (at 177.8125 -63.5075 180)
+    (at 127.20625 380.37375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16058,7 +16058,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp c35d00eb-3717-429d-b53d-764b8ab6f457)
-    (at 239.8875 -62.4875 180)
+    (at 189.28125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16111,7 +16111,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp c5c2c97d-aa76-458f-bc01-cff6239ddf4a)
-    (at 239.8875 -52.3875 180)
+    (at 189.28125 391.49375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16164,7 +16164,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp c66e976c-edce-49ba-bc4e-4aa70362015a)
-    (at 95.8525 -68.5575 180)
+    (at 45.24625 375.32375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -16206,7 +16206,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp c6a04ddb-22be-4de4-95e1-ce467943593e)
-    (at 39.21125 -36.1625 180)
+    (at -11.395 407.71875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -16256,7 +16256,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp c6b0cf85-4cfb-408e-b57b-d29a0b13f19b)
-    (at 255.0325 -33.2075 180)
+    (at 204.42625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16298,7 +16298,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp cac4e557-1495-481f-84b0-7b6dba92ddd8)
-    (at 216.5525 -33.2075 180)
+    (at 165.94625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16340,7 +16340,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp cafe63ec-b141-4108-8bb0-60baba319a4a)
-    (at 88.8325 -70.5975 180)
+    (at 38.22625 373.28375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -16382,7 +16382,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp cc7366a8-2bb2-4de7-bfaf-35aa3f87b154)
-    (at 221.3625 -33.2075 180)
+    (at 170.75625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16424,7 +16424,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp ce6fbef3-6542-4ba4-8e43-a09ff602060f)
-    (at 33.46125 -46.2125 180)
+    (at -17.145 397.66875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -16474,7 +16474,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp d11d9eb5-e2ca-47fc-b73a-23bd7d8dfdcc)
-    (at 180.0225 -50.3975 180)
+    (at 129.41625 393.48375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16516,7 +16516,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp d12d8872-9cb9-47df-8bd1-8c000b0efb7c)
-    (at 176.7075 -72.5875 180)
+    (at 126.10125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16569,7 +16569,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp d1fccdbe-8ffd-4027-8895-0643f05c9190)
-    (at 101.7675 -67.5375 180)
+    (at 51.16125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -16622,7 +16622,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp d40989cc-8805-4df9-8cab-3f49247437b0)
-    (at 253.9275 -62.4875 180)
+    (at 203.32125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16675,7 +16675,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp d46a9d45-92ba-4351-b345-ee30055f3a1e)
-    (at 76.5175 -44.45 180)
+    (at 25.91125 399.43125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -16725,7 +16725,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp d4aaee20-32bd-4c36-a102-05c1931e9e18)
-    (at 82.2675 -41.1 180)
+    (at 31.66125 402.78125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -16775,7 +16775,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp d5222e08-09b3-439a-92ee-e91884112b6d)
-    (at 156.3625 -70.5975 180)
+    (at 105.75625 373.28375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16817,7 +16817,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp d546a990-6209-4233-8f69-dab97c9d4625)
-    (at 163.3825 -61.5675 180)
+    (at 112.77625 382.31375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16859,7 +16859,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp d585b8fe-ab41-4eea-8928-98edb4c11b4c)
-    (at 169.6875 -72.5875 180)
+    (at 119.08125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -16912,7 +16912,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp d5cd7474-74cc-4ba5-8917-339053413624)
-    (at 70.7675 -41.1 180)
+    (at 20.16125 402.78125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -16962,7 +16962,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp d6434280-7021-4a7f-b6c3-899e1bf4ddbe)
-    (at 108.7875 -67.5375 180)
+    (at 58.18125 376.34375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -17015,7 +17015,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp d701ac52-7fc1-479e-8dc9-366beedf55e0)
-    (at 101.7675 -62.4875 180)
+    (at 51.16125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -17068,7 +17068,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp dd254623-20de-41b5-a623-cbeac942bac3)
-    (at 206.9325 -33.2075 180)
+    (at 156.32625 410.67375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -17110,7 +17110,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp de591d7e-11cb-498d-ade4-627ba76b4633)
-    (at 253.9275 -72.5875 180)
+    (at 203.32125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -17163,7 +17163,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp dee8c9b4-91ea-447d-b7fc-410e3f4b85be)
-    (at 44.96125 -26.1125 180)
+    (at -5.645 417.76875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -17213,7 +17213,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp df4e0615-8546-4840-ba73-e7dd8fc2675d)
-    (at 183.7275 -57.4375 180)
+    (at 133.12125 386.44375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -17266,7 +17266,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp dfd6c7cb-d418-4ffb-a91d-1360d05982e8)
-    (at 202.8125 -82.2575 180)
+    (at 152.20625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -17316,7 +17316,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp e0c8439d-fb3b-4265-b386-c7f765abfe3f)
-    (at 65.0175 -47.8 180)
+    (at 14.41125 396.08125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -17366,7 +17366,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp e123db76-8cda-4260-b016-30f42a13d28c)
-    (at 211.8075 -37.2375 180)
+    (at 161.20125 406.64375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -17419,7 +17419,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp e24234d8-6344-4827-83a2-fe923aa3ae28)
-    (at 146.7425 -70.5975 180)
+    (at 96.13625 373.28375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -17461,7 +17461,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp e2e0e139-8f5a-4363-80f8-780cbd9a19fe)
-    (at 225.8125 -82.2575 180)
+    (at 175.20625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -17510,7 +17510,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp e534b40d-c5af-4d5c-b020-5931c873fcb8)
-    (at 225.8475 -72.5875 180)
+    (at 175.24125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -17563,7 +17563,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp e690851f-e440-4a7c-852d-4350ca3c89e3)
-    (at 243.0625 -82.2575 180)
+    (at 192.45625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -17613,7 +17613,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp e83171b9-5612-43d3-a7d1-a09e8cef5719)
-    (at 158.5725 -61.5675 180)
+    (at 107.96625 382.31375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -17655,7 +17655,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp e89a3f18-7cd8-4a51-92b0-bb78b58687d9)
-    (at 184.4425 -44.3775 180)
+    (at 133.83625 399.50375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -17697,7 +17697,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp e8c89332-eef9-4c8e-ac52-29d4015af4b5)
-    (at 44.96125 -39.5125 180)
+    (at -5.645 404.36875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -17747,7 +17747,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp e999050d-8b18-4104-9354-68c83dcb557d)
-    (at 70.7675 -44.45 180)
+    (at 20.16125 399.43125 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -17797,7 +17797,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp ebe39fb2-49e5-4caf-aa71-9d39d26300d5)
-    (at 197.7675 -72.5875 180)
+    (at 147.16125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -17850,7 +17850,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp ec088a11-23d0-4714-8afe-9230818014f8)
-    (at 197.7675 -57.4375 180)
+    (at 147.16125 386.44375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -17903,7 +17903,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp ec232b38-22b4-4cdc-96f2-03eb73a5d720)
-    (at 266.755 -64.735 180)
+    (at 216.14875 379.14625 180)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -17945,7 +17945,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp ecce0d01-c67b-493f-b399-ddd52b0c3dbb)
-    (at 325.885 -60.785 180)
+    (at 275.27875 383.09625 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -17995,7 +17995,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp ecf44660-4f9c-4175-87bb-da5c3befdeb4)
-    (at 253.9275 -37.2375 180)
+    (at 203.32125 406.64375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18048,7 +18048,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp ee84a238-5d6a-457c-9785-b09c66a9d111)
-    (at 187.0425 -47.3875 180)
+    (at 136.43625 396.49375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18090,7 +18090,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp eee31662-7b1d-44d8-b7b9-d95e9159ad92)
-    (at 194.0625 -42.3375 180)
+    (at 143.45625 401.54375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18132,7 +18132,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp ef7efe2a-397e-46b5-8a34-15ebf4e6ab56)
-    (at 133.8125 -82.2575 180)
+    (at 83.20625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -18182,7 +18182,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp efbea75c-2342-42f7-ac24-71ca97fb8b38)
-    (at 225.8475 -62.4875 180)
+    (at 175.24125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18235,7 +18235,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp f2a4f645-4e5a-4ab1-8148-b59d1cb62d17)
-    (at 174.8225 -44.3775 180)
+    (at 124.21625 399.50375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18277,7 +18277,7 @@
 
   (footprint "Type-C:HRO-TYPE-C-31-M-12-HandSoldering" (layer "B.Cu")
     (tedit 5C42C6AC) (tstamp f2df423d-2982-438e-a9ed-d6781f69b1fd)
-    (at 285.91 -59.24 180)
+    (at 235.30375 384.64125 180)
     (property "Sheetfile" "keeb.kicad_sch")
     (property "Sheetname" "")
     (path "/c3b823c1-bfcc-48d5-bb8d-edb2769aa347")
@@ -18332,7 +18332,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp f3ac9f6f-0a21-4638-b167-62e9e424c832)
-    (at 88.8325 -73.6075 180)
+    (at 38.22625 370.27375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbsideglow.kicad_sch")
@@ -18374,7 +18374,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp f55c0037-56de-4845-b532-1dde1a839305)
-    (at 167.8025 -47.4875 180)
+    (at 117.19625 396.39375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18416,7 +18416,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp f577a6ef-bd06-491b-a4e2-5064055412b4)
-    (at 246.9075 -37.2375 180)
+    (at 196.30125 406.64375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18469,7 +18469,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp f761b1c8-f974-4a9d-8521-16463f780dfb)
-    (at 27.71125 -46.2125 180)
+    (at -22.895 397.66875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -18519,7 +18519,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp f7b8985c-2dd8-4530-9b79-7f222ab431ae)
-    (at 198.8725 -37.2875 180)
+    (at 148.26625 406.59375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18561,7 +18561,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp f859d9c1-bad2-43e4-8a5f-fc1faf68f435)
-    (at 218.8275 -42.2875 180)
+    (at 168.22125 401.59375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18614,7 +18614,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp f9be8179-ac3d-459b-906e-68467f233836)
-    (at 232.8675 -57.4375 180)
+    (at 182.26125 386.44375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18667,7 +18667,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp fa1f2a0b-f684-48f8-ade6-7296fef6ed74)
-    (at 179.8125 -82.2575 180)
+    (at 129.20625 361.62375 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -18717,7 +18717,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp facd1b22-41cf-466f-92e7-ff357665a44e)
-    (at 218.8275 -62.4875 180)
+    (at 168.22125 381.39375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18770,7 +18770,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp fb292930-42ee-417d-8e56-6532f8f46bee)
-    (at 232.8675 -47.3375 180)
+    (at 182.26125 396.54375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18823,7 +18823,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp fb7aba58-77f7-4179-bff5-bcb91d56e376)
-    (at 271.535 -67.655 180)
+    (at 220.92875 376.22625 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keeb.kicad_sch")
@@ -18865,7 +18865,7 @@
 
   (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" (layer "B.Cu")
     (tedit 5AA4B22F) (tstamp fc1f1af3-d39d-420c-86b6-50c08411a099)
-    (at 183.7275 -72.5875 180)
+    (at 133.12125 371.29375 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -18918,7 +18918,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp fc45463b-3ec1-4490-a156-3b10d1658f66)
-    (at 44.96125 -36.1625 180)
+    (at -5.645 407.71875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix2_sch.kicad_sch")
@@ -18968,7 +18968,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp fedc3dba-7382-4d37-a59c-97e4f015b938)
-    (at 173.0025 -56.5175 180)
+    (at 122.39625 387.36375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "rgbmatrix.kicad_sch")
@@ -19007,5 +19007,8 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (gr_rect (start 273.05 280.9875) (end 307.18125 292.1) (layer "F.Cu") (width 0.2) (fill none) (tstamp f95983ea-0916-43db-921b-11293f3f7931))
+  (gr_rect (start 270.66875 234.15625) (end 287.3375 218.28125) (layer "B.Cu") (width 0.2) (fill none) (tstamp 7caee903-11ed-4086-b0c7-9f00644f9556))
 
 )
