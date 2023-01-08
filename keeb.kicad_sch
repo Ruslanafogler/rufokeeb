@@ -928,6 +928,8 @@
     (uuid fefe3181-47a8-4b3a-8f78-9f54664280c9)
   )
 
+  (no_connect (at 91.44 175.26) (uuid 14cf63f1-1efd-4f77-91d5-8bf99484023b))
+  (no_connect (at 91.44 177.8) (uuid 14cf63f1-1efd-4f77-91d5-8bf99484023b))
   (no_connect (at 43.18 40.64) (uuid 61350c0f-6ee3-4f90-a4e6-8f485b2ef477))
   (no_connect (at 43.18 55.88) (uuid 61350c0f-6ee3-4f90-a4e6-8f485b2ef478))
   (no_connect (at 60.96 119.38) (uuid 86237519-eaaf-44bc-9bb6-87a4f427ff41))
