@@ -3059,7 +3059,7 @@
     (uuid bbb27b28-0a47-4cdc-bc9d-36cd21272491)
     (property "Reference" "SW16" (id 0) (at 95.25 62.23 0))
     (property "Value" "SW_Push" (id 1) (at 95.25 64.77 0))
-    (property "Footprint" "acheron_MXH:MX200HR" (id 2) (at 95.25 64.77 0)
+    (property "Footprint" "acheron_MXH:MX200H" (id 2) (at 95.25 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 95.25 64.77 0)
