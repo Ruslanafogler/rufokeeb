@@ -929,7 +929,7 @@
   )
 
   (no_connect (at 91.44 175.26) (uuid 14cf63f1-1efd-4f77-91d5-8bf99484023b))
-  (no_connect (at 91.44 177.8) (uuid 14cf63f1-1efd-4f77-91d5-8bf99484023b))
+  (no_connect (at 91.44 177.8) (uuid 14cf63f1-1efd-4f77-91d5-8bf99484023c))
   (no_connect (at 43.18 40.64) (uuid 61350c0f-6ee3-4f90-a4e6-8f485b2ef477))
   (no_connect (at 43.18 55.88) (uuid 61350c0f-6ee3-4f90-a4e6-8f485b2ef478))
   (no_connect (at 60.96 119.38) (uuid 86237519-eaaf-44bc-9bb6-87a4f427ff41))
@@ -3023,205 +3023,205 @@
       (reference "D1") (unit 1) (value "PRTR5V0U2X") (footprint "random-keyboard-parts2:SOT143B")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/1f0a1951-6077-48e7-b150-164a52a5c0b0"
-      (reference "D2") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D2") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/e5dbddad-d1b0-46e5-99e1-b4f93eab97e8"
-      (reference "D3") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D3") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/84043178-b3ab-4dca-883e-9c76babfb462"
-      (reference "D4") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D4") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/f842c511-370a-43b5-bc83-c0ab7c47ef86"
-      (reference "D5") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D5") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/f1569fc4-7b00-477d-b1fe-98832e834950"
-      (reference "D6") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D6") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/9e18ddf9-7521-4ef1-82c4-99e7f5f69782"
-      (reference "D7") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D7") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/fcc9f9f7-20fc-4fda-977e-5082df8f5fed"
-      (reference "D8") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D8") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/781afb1b-60bf-4c34-a1a5-dff9eab2f86b"
-      (reference "D9") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D9") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/110e23be-fee8-47df-a946-baceb6904555"
-      (reference "D10") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D10") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/a29451cb-cfaa-4cc3-922c-d30ee60189b7"
-      (reference "D11") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D11") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/eedf9b7a-4f1f-4e07-9fef-be6dad65fa40"
-      (reference "D12") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D12") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/ea92e5c5-6008-487b-b34e-9f844a082153"
-      (reference "D13") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D13") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/0f6f4274-fd3a-4c9a-a27d-a8f462695c71"
-      (reference "D14") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D14") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/9d4a08ab-99e9-4587-9055-9b307497a965"
-      (reference "D15") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D15") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/71d71522-d65f-4e79-abe1-5184db24e44b"
-      (reference "D16") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D16") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/eb4ad7cc-5de5-4c0d-92b2-d865a946d304"
-      (reference "D17") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D17") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/d7150256-56a1-42bd-a514-6caff750e4f7"
-      (reference "D18") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D18") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/8dcf3023-1e42-4915-942b-77d025c81d03"
-      (reference "D19") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D19") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/f899dfec-0b2a-45d4-be86-2867b74cb0f0"
-      (reference "D20") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D20") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/e681d63a-eaa4-4712-8367-b1af9b648048"
-      (reference "D21") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D21") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/052dd655-05ab-412a-b614-eed03b59ed2d"
-      (reference "D22") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D22") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/00fb1633-7fc5-4d21-a98f-0402ab49f0db"
-      (reference "D23") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D23") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/cfec85b4-934f-47bd-9eff-6089fc24f22f"
-      (reference "D24") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D24") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/2b9c391c-db9a-4540-b53f-e486e8fdd9e0"
-      (reference "D25") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D25") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/a9f854ad-af72-40b3-9d26-8e4cb1b50651"
-      (reference "D26") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D26") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/4314dc9b-ae1a-4aaf-8239-1713d765658a"
-      (reference "D27") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D27") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/a0a4fa91-9e5b-4cea-b9f9-917262d2c623"
-      (reference "D28") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D28") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/59dc6646-809a-4323-8608-44c7782c0bdf"
-      (reference "D29") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D29") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/8d2baca4-17ad-41e6-b90b-d6bc9d659998"
-      (reference "D30") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D30") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/bd165feb-5468-4a9c-82c0-94aa8b917cfd"
-      (reference "D31") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D31") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/4dba9b5c-73d1-46b1-bc89-db338a7c1780"
-      (reference "D32") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D32") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/1e9d06e9-4c2f-4caf-a632-eb54b787ad97"
-      (reference "D33") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D33") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/8ee8d68e-479e-4cb9-815a-bc678ded8f0a"
-      (reference "D34") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D34") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/75a030dc-a176-4397-a813-a6c2352b28fb"
-      (reference "D35") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D35") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/61c71601-2a1a-4d1b-a354-7233eb81151d"
-      (reference "D36") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D36") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/57821517-72b0-4b5c-8ec6-8c63cbcb8a53"
-      (reference "D37") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D37") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/d6d59021-fe82-4c3a-b7b9-02ade42eafbc"
-      (reference "D38") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D38") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/667e32cd-ba4c-4cae-887d-6ef1539fcdac"
-      (reference "D39") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D39") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/53a78a37-d5b7-413b-ab13-2ff0c9b307b8"
-      (reference "D40") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D40") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/9ca78f95-7718-46fb-969c-cbecc1a68dc7"
-      (reference "D41") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D41") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/01767743-6238-46f0-ae77-8bec0eb9770d"
-      (reference "D42") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D42") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/aa8b800b-e355-4c8f-8a09-52251a35a2c9"
-      (reference "D43") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D43") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/92e08d33-2db5-4f2b-8ebd-563234a6302e"
-      (reference "D44") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D44") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/d4800860-3a10-411e-b4a4-8de2a64872d7"
-      (reference "D45") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D45") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/4d32ea6c-4956-4984-a8a9-884db487e0d6"
-      (reference "D46") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D46") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/2bba3747-3631-4c2e-a530-ece3709e325c"
-      (reference "D47") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D47") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/2a1d386f-a4fc-451b-af67-86a1b695990a"
-      (reference "D48") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D48") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/760a56b3-6ff1-4d17-a7da-12e3f3f2e467"
-      (reference "D49") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D49") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/f9c4b383-509b-46bf-b8c7-a53dbfe296a4"
-      (reference "D50") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D50") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/e379e0af-5434-4995-b59e-2165a0ef0eaf"
-      (reference "D51") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D51") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/f8c4a72d-89fd-4de9-afd5-82ed08b84d49"
-      (reference "D52") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D52") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/7acfe6ed-72e8-4f6d-a6d2-2f0d58dd9d37"
-      (reference "D53") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D53") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/a93bb3ac-0f5b-41c3-9eee-dc673efc5ef9"
-      (reference "D54") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D54") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/159c407c-b80f-4ae0-81c1-8d129ed7d708"
-      (reference "D55") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D55") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/41262de6-a22a-4290-9b15-bdc822f342b2"
-      (reference "D56") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D56") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/5bfba44f-3342-4f45-9be1-ed40b8d85f46"
-      (reference "D57") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D57") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/bad70c37-2b16-4fbc-8cd7-a611ab053e7f"
-      (reference "D58") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D58") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/b160c526-e4ef-48b2-b9ad-6eb6de4fc3d2"
-      (reference "D59") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D59") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/cfb14294-8593-45f9-a493-868f92470bda"
-      (reference "D60") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D60") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/f6aa605f-9cdc-4f58-9a48-8cfd0e3c48f2"
-      (reference "D61") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D61") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/5d782492-79ef-4bd5-b5c2-0996b4e16ad1"
-      (reference "D62") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D62") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/bd75062c-8749-4a04-b914-8c1ffe7cde13"
-      (reference "D63") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D63") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/9814bc63-72c9-4888-ab24-7e7b66b47a68"
-      (reference "D64") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D64") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/d23a6e32-5221-4829-b111-32de54830068"
-      (reference "D65") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D65") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/a553ae75-4c2b-41cb-b2b7-246bc9bb104b"
-      (reference "D66") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D66") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/68cb1a21-e0b2-4b35-9179-3a309ead3bf6"
-      (reference "D67") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D67") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/3fde0412-4be3-4b5d-af1f-40cfb7b2ab4b"
-      (reference "D68") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D68") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/39dabec8-ee69-4816-aadc-d8efa99bb3bd/ac9af6dd-8fcf-4bb0-9640-f5906983d6ee"
       (reference "D94") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
