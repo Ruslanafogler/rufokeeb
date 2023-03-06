@@ -2389,9 +2389,6 @@
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/76879976-2238-4748-8ae8-a265725bdfab"
       (reference "#PWR031") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/a938f7a9-77df-4b40-bef4-e460275e8a15"
-      (reference "#PWR032") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/37e06227-7049-4a33-9fcf-145e3867090c"
       (reference "#PWR049") (unit 1) (value "+5V") (footprint "")
     )
@@ -2695,9 +2692,6 @@
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/2b15829a-d88d-41d0-9100-46633f3b4a8d"
       (reference "#PWR0172") (unit 1) (value "GND") (footprint "")
     )
-    (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/ee7baa90-b08c-44dd-a7a3-9f6d53742586"
-      (reference "#PWR0173") (unit 1) (value "GND") (footprint "")
-    )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/605f7b62-a00b-4afb-a74f-e86a2747d377"
       (reference "#PWR0174") (unit 1) (value "GND") (footprint "")
     )
@@ -2859,9 +2853,6 @@
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/1c561534-2a44-4747-bda8-58c78f239dd3"
       (reference "C22") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
-    )
-    (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/41761cd8-abac-4d8d-b932-0ff45ef95506"
-      (reference "C23") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/b3d146f1-8098-4d85-b28c-4292e494c7b1"
       (reference "C24") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -3063,9 +3054,6 @@
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/9d4a08ab-99e9-4587-9055-9b307497a965"
       (reference "D15") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
-    )
-    (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/71d71522-d65f-4e79-abe1-5184db24e44b"
-      (reference "D16") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
     )
     (path "/40940281-55a3-43d0-8f01-7316aa0f04ca/eb4ad7cc-5de5-4c0d-92b2-d865a946d304"
       (reference "D17") (unit 1) (value "SK6812MINI") (footprint "reverse:MX_SK6812MINI-E_REV")
